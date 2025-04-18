@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/walu/traineenotesapp/ExampleInstrumentedTest.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/database/DBHelper.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/ui/HomeActivity.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/ui/LoginActivity.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/ui/NoteEditorActivity.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/ui/NotesActivity.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/ui/SignupActivity.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/main/java/com/walu/traineenotesapp/ui/SubjectActivity.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/src/test/java/com/walu/traineenotesapp/ExampleUnitTest.kt;C:/Users/denni/AndroidProjects/TraineeNotesApp/app/build.gradle.kts;C:/Users/denni/AndroidProjects/TraineeNotesApp/build.gradle.kts;C:/Users/denni/AndroidProjects/TraineeNotesApp/settings.gradle.kts" />
+  </component>
+</project>
